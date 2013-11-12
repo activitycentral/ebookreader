@@ -1,0 +1,260 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Ajay Garg <ajay@localhost.localdomain>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-30 14:51-0300\n"
+"PO-Revision-Date: 2013-05-03 20:03+0530\n"
+"Last-Translator: Ajay Garg <ajay@localhost.localdomain>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ebookreader.py:127
+msgid "Stop"
+msgstr "Cerrar"
+
+#: ReadTab/readtab.py:83 widgets/processbookmarksinebookmodewidget.py:71
+msgid "Previous Bookmark"
+msgstr "Anterior Marca"
+
+#: ReadTab/readtab.py:91 widgets/processbookmarksinebookmodewidget.py:76
+msgid "Toggle Bookmark"
+msgstr "Agregar/Quitar Marca"
+
+#: ReadTab/readtab.py:99 widgets/processbookmarksinebookmodewidget.py:80
+msgid "Next Bookmark"
+msgstr "Siguiente Marca"
+
+#: ReadTab/readtab.py:107
+msgid "Decrease size"
+msgstr "Reducir Tamaño del Texto"
+
+#: ReadTab/readtab.py:115
+msgid "Increase size"
+msgstr "Aumentar Tamaño del Texto"
+
+#: ReadTab/readtab.py:128
+msgid "Search Previous"
+msgstr "Buscar Anterior"
+
+#: ReadTab/readtab.py:136
+msgid "Search Next"
+msgstr "Buscar Siguiente"
+
+#: ReadTab/readtab.py:149
+msgid "Go to location"
+msgstr "Ir a la ubicación"
+
+#: ReadTab/readtab.py:157
+msgid "Fullscreen"
+msgstr "Pantalla Completa"
+
+#: ReadTab/readtab.py:307
+msgid "No file opened"
+msgstr "Ningún archivo abierto"
+
+#: ReadTab/readtab.py:362
+msgid "Read"
+msgstr "Leer"
+
+#: ReadTab/readtab.py:392
+msgid "File failed to load"
+msgstr "El archivo no se pudo cargar"
+
+#: ReadTab/evinceadapter.py:229
+msgid "Change Zoom"
+msgstr "Acercarse/Alejarse"
+
+#: ReadTab/epubadapter.py:401
+msgid "Change Letter Size"
+msgstr "Tamaño del Texto"
+
+#: HowToUseTab/howtousetab.py:20
+msgid "About BookReader: Version"
+msgstr "Acerca De Lector Ceibal: Versión"
+
+#: HowToUseTab/howtousetab.py:44
+msgid "How To Use"
+msgstr "Cómo Utilizar"
+
+#: MyLibraryTab/mylibrarytab.py:91
+msgid "Select the Language."
+msgstr "Seleccionar el Idioma."
+
+#: MyLibraryTab/mylibrarytab.py:127 GetBooksTab/getbookstab.py:209
+msgid "Type to Search."
+msgstr "Escribe para Buscar."
+
+#: MyLibraryTab/mylibrarytab.py:143
+msgid "Import a book."
+msgstr "Importar un Libro."
+
+#: MyLibraryTab/mylibrarytab.py:201
+msgid "Choose document"
+msgstr "Elija Documento"
+
+#: MyLibraryTab/mylibrarytab.py:607
+msgid "My Library"
+msgstr "Mis libros"
+
+#: MyLibraryTab/mylibrarytab.py:621
+msgid "No Matches were found."
+msgstr "No se encontraron Coincidencias."
+
+#: MyLibraryTab/mylibrarytab.py:665
+msgid "Delete this Book."
+msgstr "Eliminar este Libro."
+
+#: MyLibraryTab/mylibrarytab.py:680
+#, fuzzy
+msgid "Read this Book."
+msgstr "Eliminar este Libro."
+
+#: MyLibraryTab/mylibrarytab.py:767 GetBooksTab/getbookstab.py:172
+#: GetBooksTab/getbookstab.py:238
+msgid "Any Language"
+msgstr "Cualquier idioma"
+
+#: MyLibraryTab/mylibrarytab.py:767
+msgid "Spanish"
+msgstr "Español"
+
+#: MyLibraryTab/mylibrarytab.py:767
+msgid "English"
+msgstr "Inglés"
+
+#: MyLibraryTab/mylibrarytab.py:817 GetBooksTab/getbookstab.py:1024
+msgid "Title"
+msgstr "Título"
+
+#: MyLibraryTab/mylibrarytab.py:825 GetBooksTab/getbookstab.py:1031
+msgid "Author"
+msgstr "Autor"
+
+#: MyLibraryTab/mylibrarytab.py:833 MyLibraryTab/mylibrarytab.py:1022
+#: GetBooksTab/getbookstab.py:1036
+msgid "Language"
+msgstr "Idioma"
+
+#: MyLibraryTab/mylibrarytab.py:841
+msgid "Path"
+msgstr "Path"
+
+#: MyLibraryTab/mylibrarytab.py:849
+msgid "Input Time"
+msgstr "Fecha de ingreso a Mis Libros"
+
+#: MyLibraryTab/mylibrarytab.py:1071 GetBooksTab/getbookstab.py:504
+msgid "Open"
+msgstr "Abrir"
+
+#: MyLibraryTab/mylibrarytab.py:1072
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: MyLibraryTab/mylibrarytab.py:1104
+msgid "Attention"
+msgstr "Attention"
+
+#: widgets/processbookmarksinebookmodewidget.py:75
+msgid "Options"
+msgstr "Opciones"
+
+#: widgets/modescomboheader.py:71
+msgid "Exit"
+msgstr "Salida"
+
+#: widgets/modescomboheader.py:77
+msgid "Select"
+msgstr "Seleccionar"
+
+#: GetBooksTab/getbookstab.py:147
+msgid "Show catalogs"
+msgstr "Mostrar catálogos"
+
+#: GetBooksTab/getbookstab.py:292
+#, fuzzy
+msgid "Download this Book."
+msgstr "Eliminar este Libro."
+
+#: GetBooksTab/getbookstab.py:538 GetBooksTab/getbookstab.py:618
+#: GetBooksTab/getbookstab.py:1060
+msgid "Catalogs"
+msgstr "Catálogos"
+
+#: GetBooksTab/getbookstab.py:621 GetBooksTab/getbookstab.py:817
+#: GetBooksTab/getbookstab.py:1203
+msgid "within"
+msgstr "en"
+
+#: GetBooksTab/getbookstab.py:735 GetBooksTab/getbookstab.py:1092
+msgid "Searching"
+msgstr "Buscando"
+
+#: GetBooksTab/getbookstab.py:771
+msgid "My books"
+msgstr "Mis libros"
+
+#: GetBooksTab/getbookstab.py:785
+#, python-format
+msgid "%.2f GB Volume"
+msgstr ""
+
+#: GetBooksTab/getbookstab.py:871
+msgid "Book added to Library"
+msgstr "Libro añadido a Mis libros"
+
+#: GetBooksTab/getbookstab.py:906
+#, python-format
+msgid "Error: Could not download %s. "
+msgstr "Error: No se pudo descargar %s. "
+
+#: GetBooksTab/getbookstab.py:1041
+msgid "Format"
+msgstr "Formato"
+
+#: GetBooksTab/getbookstab.py:1067
+msgid "Getbooks"
+msgstr "Bibliotecas"
+
+#: GetBooksTab/getbookstab.py:1144
+msgid "Could not reach the server. Maybe you are not connected to the network"
+msgstr ""
+"No se pudo conectar con el servidor. Tal vez no estás conectado a la red"
+
+#: GetBooksTab/getbookstab.py:1148
+msgid "There was an error downloading the list."
+msgstr "Ocurrió un error descargando la lista"
+
+#: GetBooksTab/getbookstab.py:1155
+msgid "Sorry, no books could be found."
+msgstr "Lo siento, no se encontraron libros."
+
+#: GetBooksTab/getbookstab.py:1169
+msgid "Sorry, we only found english books."
+msgstr "Lo siento, solamente se encontraron libros en inglés."
+
+#: GetBooksTab/getbookstab.py:1265
+msgid "Error"
+msgstr "Error"
+
+#: GetBooksTab/getbookstab.py:1265
+msgid "Connection timed out for "
+msgstr "La conexión expiró"
+
+#~ msgid "Delete Book."
+#~ msgstr "Eliminar Libro."
+
+#~ msgid "Version"
+#~ msgstr "Versión"
+
+#~ msgid "E-Book Reader"
+#~ msgstr "Lector Ceibal"

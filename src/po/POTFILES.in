@@ -1,0 +1,11 @@
+ebookreader.py
+ReadTab/readtab.py
+ReadTab/evinceadapter.py
+ReadTab/epubadapter.py
+HowToUseTab/howtousetab.py
+MyLibraryTab/mylibrarytab.py
+widgets/processzoominebookmodewidget.py
+widgets/processbookmarksinebookmodewidget.py
+widgets/processfilesinebookmodewidget.py
+widgets/modescomboheader.py
+GetBooksTab/getbookstab.py

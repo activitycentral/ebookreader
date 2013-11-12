@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=EBookReader
+Comment=eBook reader
+Exec=REPLACE/gnome.sh %U
+Icon=REPLACE/activity/bookreader-activ.svg
+NotShowIn=KDE;
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=application/pdf;application/epub+zip;application/x-ceibal;
+Categories=GNOME;Application;Office;

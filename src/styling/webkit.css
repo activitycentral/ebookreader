@@ -1,0 +1,62 @@
+body {
+  background-color: #FFFFFF;
+  font-size: 20px;
+  line-height: 150%;
+  font-family: "Bitstream Charter",Serif;
+  color:#000;
+  margin:0;
+  overflow-y: visible;
+  overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5,h6, .sgc{
+  text-align: center;
+}
+
+p, .calibre2 {
+  text-indent: 50px;
+}
+
+p, li, .calibre2{
+  font-size: 20px;
+  line-height: 150%;
+  text-align:justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+div{
+  font-size: 20px;
+  line-height: 150%;
+  text-align:justify;
+  border:none;
+}
+
+div .image_center{
+  height: 100%;
+  width: auto;
+  border: none !important;
+}
+
+.imagen_centrada {
+  max-height: 100%;
+  width: auto;
+}
+
+.alto {height:85%;}
+
+img{
+   max-width:100%;
+   max-height:100%;
+}
+
+/* disable links */
+a, a:active, a:hover {
+   pointer-events: none;
+   cursor: default;
+   color:#000;
+}
+
+::selection {
+  background: #5CB211;
+}

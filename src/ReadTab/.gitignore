@@ -1,0 +1,9 @@
+*.mo
+*.pyc
+*.xo
+*~
+.*.sw?
+locale
+MANIFEST
+dist/
+epubview/.svn/

@@ -1,0 +1,9 @@
+[Activity]
+name = EBookReader
+bundle_id = org.ac.EBookReader
+icon = bookreader-activ
+exec = sugar-activity ebookreaderactivity.EBookReaderActivity
+show_launcher = yes
+activity_version = 2.1
+mime_types = application/pdf;application/epub+zip;application/x-ceibal
+license = GPLv2+

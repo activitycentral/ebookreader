@@ -1,0 +1,7 @@
+Following packages are needed:
+
++ evince
++ python-cjson
++ python-simplejson
++ python-libxml2
++ python-lxml

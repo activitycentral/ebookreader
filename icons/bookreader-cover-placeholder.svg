@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   width="100"
+   height="150"
+   viewBox="0 0 100 150"
+   enable-background="new 0 0 150 195"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="bookreader-cover-placeholder.svg"
+   inkscape:export-filename="/home/ru/Documentos/Devel/ebookreader/ebookreader-gtk3/icons/bookreader-cover-placeholder.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata18"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs16" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1678"
+   inkscape:window-height="980"
+   id="namedview14"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:showpageshadow="false"
+   borderlayer="true"
+   inkscape:zoom="1.2102564"
+   inkscape:cx="-139.48753"
+   inkscape:cy="74.972813"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />
+<rect
+   width="100"
+   height="150"
+   id="rect3"
+   x="0"
+   y="0"
+   style="fill:#eaecd2"
+   inkscape:export-filename="/home/ru/Documentos/Devel/ebookreader/ebookreader-gtk3/icons/g2995.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90" />
+<g
+   id="g2995"
+   transform="matrix(0.81309887,0,0,0.81309887,-10.982822,-4.2771398)"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><g
+     id="g5">
+	<g
+   id="libro_7_">
+		<path
+   id="path8"
+   d="m 49.635,55.291 c -3.42,0 -6.191,2.771 -6.191,6.191 v 72.035 c 0,-3.418 2.771,-6.189 6.191,-6.189 h 50.73 6.191 V 55.291 H 49.635 z"
+   inkscape:connector-curvature="0"
+   style="fill:#4badde;stroke:#1c4b61;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+		<path
+   id="path10"
+   d="m 100.365,133.518 c 0,-3.418 2.773,-6.189 6.191,-6.189 h -6.191 -50.73 c -3.42,0 -6.191,2.771 -6.191,6.189 0,3.42 2.771,6.191 6.191,6.191 h 56.922 c -3.418,0 -6.192,-2.771 -6.192,-6.191 z"
+   inkscape:connector-curvature="0"
+   style="fill:#c1bf79;stroke:#1c4b61;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+		
+			<line
+   id="line12"
+   y2="127.328"
+   x2="53.796001"
+   y1="55.291"
+   x1="53.796001"
+   style="fill:#ffffff;stroke:#1c4b61;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" />
+	</g>
+</g></g>
+</svg>
